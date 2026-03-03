@@ -1,4 +1,9 @@
-Profesional con experiencia en gestión de proyectos tecnológicos y especialización en análisis de datos. Mi enfoque se centra en el diseño y construcción de pipelines de datos, procesos ETL, modelado de bases de datos relacionales y visualización para la toma de decisiones basada en datos.
+# 👋 Hola, soy Jeimy
+
+Data Analytics | Project Manager | Ingeniera Ambiental  
+Enfocada en transformar datos en decisiones estratégicas
+
+Cuento con experiencia en gestión de proyectos tecnológicos y especialización en análisis de datos. Mi enfoque se centra en el diseño y construcción de pipelines de datos, procesos ETL, modelado de bases de datos relacionales y visualización para la toma de decisiones basada en datos.
 
 Trabajo con SQL, automatización de procesos, integración de APIs, transformación de datos y herramientas de BI. Me interesa especialmente el desarrollo de soluciones analíticas aplicadas a sostenibilidad, logística y optimización de procesos.
 
