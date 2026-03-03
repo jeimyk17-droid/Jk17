@@ -4,14 +4,14 @@ Trabajo con SQL, automatización de procesos, integración de APIs, transformaci
 
 En este repositorio encontrarás proyectos relacionados con:
 
-Construcción de pipelines de datos (ETL)
+- Construcción de pipelines de datos (ETL)
 
-Modelado y consultas en bases de datos SQL
+- Modelado y consultas en bases de datos SQL
 
-Automatización de extracción de datos (APIs)
+- Automatización de extracción de datos (APIs)
 
-Visualización y dashboards
+- Visualización y dashboards
 
-Análisis exploratorio y generación de insights
+- Análisis exploratorio y generación de insights
 
 Apasionada por convertir datos en soluciones estratégicas con impacto real.
