@@ -1,1 +1,17 @@
-# Jk17
+Profesional con experiencia en gestión de proyectos tecnológicos y especialización en análisis de datos. Mi enfoque se centra en el diseño y construcción de pipelines de datos, procesos ETL, modelado de bases de datos relacionales y visualización para la toma de decisiones basada en datos.
+
+Trabajo con SQL, automatización de procesos, integración de APIs, transformación de datos y herramientas de BI. Me interesa especialmente el desarrollo de soluciones analíticas aplicadas a sostenibilidad, logística y optimización de procesos.
+
+En este repositorio encontrarás proyectos relacionados con:
+
+Construcción de pipelines de datos (ETL)
+
+Modelado y consultas en bases de datos SQL
+
+Automatización de extracción de datos (APIs)
+
+Visualización y dashboards
+
+Análisis exploratorio y generación de insights
+
+Apasionada por convertir datos en soluciones estratégicas con impacto real.
