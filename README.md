@@ -15,3 +15,38 @@ En este repositorio encontrarás proyectos relacionados con:
 - Análisis exploratorio y generación de insights
 
 Apasionada por convertir datos en soluciones estratégicas con impacto real.
+
+Tecnologías y Herramientas
+
+1. Lenguajes y Consulta de Datos
+
+  - SQL
+
+  - Python
+
+2. Data Engineering & ETL
+
+  - Procesos ETL
+
+  - Integración y consumo de APIs
+
+  - Automatización de flujos de datos
+
+3. Bases de Datos
+
+  - MySQL
+
+  - Azure SQL
+
+  - Cloud & Data Platforms
+
+
+4. Visualización & BI
+
+  - Power BI
+
+5. Metodologías
+
+  - CRUM
+
+  - Gestión ágil de proyectos
